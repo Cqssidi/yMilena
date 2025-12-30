@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Sobre mí</h2>
 
 <p align="center">
-👋 Hola, soy <strong>Cassidy</strong> más conocido como <strong>Cqssidy</strong>, <br>
+👋 Hola, soy <strong>Mile</strong> más conocido como <strong>yMilena</strong>, <br>
 tengo <strong>19 años</strong> y soy de <strong> ?? </strong>
 </p>
 
@@ -67,25 +67,25 @@ tengo <strong>19 años</strong> y soy de <strong> ?? </strong>
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-master-Cqssidy-projects.vercel.app/api?username=Cqssidy&show_icons=true&count_private=true&hide_border=true&title_color=4A4BF7&icon_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cqssidy&hide_border=true&background=0d1117&stroke=4A4BF7&ring=4A4BF7&fire=4A4BF7&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-git-master-yMilena-projects.vercel.app/api?username=yMilena&show_icons=true&count_private=true&hide_border=true&title_color=4A4BF7&icon_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yMilena&hide_border=true&background=0d1117&stroke=4A4BF7&ring=4A4BF7&fire=4A4BF7&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-master-Cqssidy-projects.vercel.app/api/top-langs/?username=Cqssidy&layout=compact&hide_border=true&title_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cqssidy&theme=react-dark&hide_border=true&bg_color=0d1117&color=4A4BF7&line=4A4BF7&point=c9d1d9" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats-git-master-yMilena-projects.vercel.app/api/top-langs/?username=yMilena&layout=compact&hide_border=true&title_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yMilena&theme=react-dark&hide_border=true&bg_color=0d1117&color=4A4BF7&line=4A4BF7&point=c9d1d9" alt="Activity Graph" />
 </p>
 
 <h2 align="center">🏆 Logros de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cqssidy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yMilena&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <h2 align="center">📫 Conecta conmigo</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Cqssidy">
+  <a href="https://www.youtube.com/@yMilena">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="http://discordapp.com/users/914332172054310994">
@@ -97,7 +97,7 @@ tengo <strong>19 años</strong> y soy de <strong> ?? </strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cqssidy&color=4A4BF7&style=for-the-badge&label=Visitas+al+perfil" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yMilena&color=4A4BF7&style=for-the-badge&label=Visitas+al+perfil" alt="Profile Views" />
 </p>
 
 <p align="center">
