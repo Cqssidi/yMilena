@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Sobre mí</h2>
 
 <p align="center">
-👋 Hola, soy <strong>Cassidy</strong> más conocido como <strong>Cqssidi</strong>, <br>
+👋 Hola, soy <strong>Cassidy</strong> más conocida como <strong>Cqssidi</strong>, <br>
 tengo <strong>19 años</strong> y soy de <strong> ?? </strong>
 </p>
 
